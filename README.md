@@ -9,7 +9,8 @@ si alguno de los enemigos te toca se termina el juego.
 Instrucciones:
 
 Para jugar simplemente ejecuta el archivo "Esquiva enemigos.exe",
-no necesita intalar alguna librería o programa externo para funcionar.
+no necesita instalar alguna librería o programa externo para funcionar, 
+pero el archivo .pck debe estar en la misma carpeta que el .exe.
 
 Para iniciar el juego presiona el botón "Iniciar" de la pantalla principal 
 o presiona la tecla enter de tu teclado.
